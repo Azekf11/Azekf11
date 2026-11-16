@@ -2,6 +2,8 @@
 
 Engineering student in quantitative finance (Master's level, M1) at ECE Paris, France.
 
+Portfolio: **https://anhvu-ta-portfolio.vercel.app**
+
 I like building things around markets, data and applied AI. Some projects here are long and structured, others are quick experiments I wanted to try. I add them when I have the time.
 
 ## Projects
@@ -9,8 +11,8 @@ I like building things around markets, data and applied AI. Some projects here a
 **Tokenized markets, out of equilibrium** (research, with Mathéo Orpelière)
 A token backed by gold or by a stock trades around the clock, while the asset behind it closes every night and every weekend. We study how fast the price gap between the two closes, depending on whether the underlying market is open or shut. The work uses tokenized gold (PAXG) and tokenized US stocks. The protocol is pre-registered, and every result is recomputed independently on two machines. Status: in progress, preprint planned for the end of 2026.
 
-**PokéQuant** (open source, starting November 2026)
-A reproducible, quantitative look at Pokémon TCG booster packs. It models pull rates with their uncertainty, simulates openings with Monte Carlo, and compares opening packs with buying cards directly, in terms of expected value and risk. The goal is an honest study with code anyone can rerun, not a "is it worth it" verdict. Independent fan project, not affiliated with Pokémon or its rights holders. Status: just starting.
+**[PokéQuant](https://github.com/Azekf11/PokeQuant)** (open source, November 2026)
+A reproducible, quantitative look at Pokémon TCG booster packs. It models pull rates with their uncertainty, simulates openings with Monte Carlo, and compares opening packs with buying cards directly, in terms of expected value and risk. The goal is an honest study with code anyone can rerun, not a "is it worth it" verdict. Independent fan project, not affiliated with Pokémon or its rights holders. Status: finished. Working paper (version 3, 14 pages), [interactive demo](https://azekf11.github.io/PokeQuant/), archived on Zenodo ([10.5281/zenodo.24251050](https://doi.org/10.5281/zenodo.24251050)).
 
 **Rewrity**
 A tool that detects typical AI writing patterns in a text and rewrites them. It scores a text and gives an audit of what looks machine-written. Built on the Anthropic API.
